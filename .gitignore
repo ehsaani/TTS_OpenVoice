@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+processed
+output
+openvoice
+samles
+outputs_v2
+checkpoints
+checkpoints_v2
+trash
+openVoice_venv
+examples*
+.env
+build
+*.egg-info/
+*.zip
